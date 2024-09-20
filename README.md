@@ -10,7 +10,7 @@ We believe in inspiring the students by doing. In this github, you will see what
 - 👯 We love solving non-routine problems to stimulate our minds.
 - 🤔 We enjoy looking for patterns in nasty data, and decipher them.
 - 💬 We find 'aha' moments in learning new data science, everyday.
-- 📫 We learn, we math, we code, and we build everyday, something.
+- 📫 We learn, we math, we code, and we build daily, something.
 
 We are a group of passionate statisticians, data scientists, and researchers, doing what we love to do, and trying to help students do what they want to do: problem solving with data. Judge us by our work, and content. 
 
