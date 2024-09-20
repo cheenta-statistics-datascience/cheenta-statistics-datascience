@@ -19,8 +19,8 @@ We are a group of passionate statisticians, data scientists, and researchers, do
 Anyone can join anytime to start learning, solving problems, and building projects. The youngest students are just fresh incoming undergraduates, and the eldest are starting to grow grey hair, with sheer love for statistics, and data science. Inspiring, right?
 
 ### Non-Routine Problem Solving
-- 🪀 Masters Entrances in Statistics
-- 🏓 Masters Entrances in Data Science
+- 🪀 Masters Entrances in Statistics (ISI MStat, IIT JAM MS, CUET PG Stat, GATE Statistics (upcoming))
+- 🏓 Masters Entrances in Data Science (CMI MSc DS, ISI MSQMS, IITM UoB, GATE DSAI (upcoming))
 
 ### Data Science Projects
 - 🛼 Statistical Learning Projects
