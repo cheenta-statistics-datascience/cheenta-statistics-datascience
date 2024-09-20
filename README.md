@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Cheenta Statistics and Data Science Team's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheenta-statistics-datascience&hide=contribs,prs&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Cheenta Statistics and Data Science Team's Progress](https://github-readme-stats.vercel.app/api?username=cheenta-statistics-datascience&hide=contribs,prs&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 We believe in inspiring the students by doing, and making progress daily. In this github, you will see what we do, what we teach, and what we breathe everyday. Our mission is simple: train the students for a successful career _(school -> undergraduate -> graduate -> job/research)_ in statistics and data science by doing things that matter. 
 
