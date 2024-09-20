@@ -16,7 +16,7 @@ We are a group of passionate statisticians, data scientists, and researchers, do
 
 ## What do we train learners in?
 
-Anyone can join anytime to start learning, solving problems, and building projects. The youngest students are just fresh incoming undergraduates, and the eldest are starting to grow grey hair, with sheer love for statistics, and data science. Inspiring, right?
+Anyone can join anytime to start learning, solving problems, and building projects. The youngest students are just fresh incoming undergraduates, and the eldest are starting to grow grey hair, with sheer passion for statistics, and data science. Inspiring, right?
 
 ### Non-Routine Problem Solving
 - 🪀 Masters Entrances in Statistics (ISI MStat, IIT JAM MS, CUET PG Stat) & GATE Statistics (upcoming)
