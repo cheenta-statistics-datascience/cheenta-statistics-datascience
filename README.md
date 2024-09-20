@@ -6,7 +6,7 @@ We believe in inspiring the students by doing, and making progress daily. In thi
 
 ## What actually matters?
 - 🔭 Non-Routine Problem Solving (undergraduate -> masters entrances)
-- 🌱 Data Science Projects (masters -> job/research -> end of life)
+- 🌱 Data Science Projects (masters -> job/research -> help Cheenta grow? -> end of life)
 
 ## Who are we?
 - 👯 We love solving non-routine problems to stimulate our minds.
