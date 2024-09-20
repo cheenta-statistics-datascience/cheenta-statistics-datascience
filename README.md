@@ -26,5 +26,7 @@ Anyone can join anytime to start learning, solving problems, and building projec
 - 🛼 Statistical Learning Projects
 - 🤾‍♀️ Machine Learning Projects
 
+## Our Progress
+
 [![Cheenta Statistics and Data Science Team's Github Stats](https://github-readme-stats.vercel.app/api?username=cheenta-statistics-datascience&hide=contribs,prs&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
